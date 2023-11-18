@@ -1,0 +1,10 @@
+com\obsqura\test\CreateDeleteEditExpenseTest.class
+com\obsqura\pages\HomePage.class
+com\obsqura\test\AddAdminUserTest.class
+com\obsqura\pages\LoginPage.class
+com\obsqura\test\LoginTest.class
+com\obsqura\pages\AddAdminUser.class
+com\obsqura\pages\CreateDeleteEditExpense.class
+com\obsqura\test\BaseTest.class
+com\obsqura\Listeners\ReportListeners.class
+com\obsqura\Listeners\RetryAnalyzer.class
